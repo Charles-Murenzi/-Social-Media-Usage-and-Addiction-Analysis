@@ -105,5 +105,5 @@ Recommend actionable solutions to mitigate negative effects.
 
 ## 👤 Author
 MURENZI Charles  
-Big DAnalytics Capstone Project 
+Big DaAnalytics Capstone Project 
 August 2025
