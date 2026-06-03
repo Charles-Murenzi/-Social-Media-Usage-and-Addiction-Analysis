@@ -105,5 +105,5 @@ Recommend actionable solutions to mitigate negative effects.
 
 ## 👤 Author
 MURENZI Charles  
-Analytics Capstone Project 
+BAnalytics Capstone Project 
 August 2025
