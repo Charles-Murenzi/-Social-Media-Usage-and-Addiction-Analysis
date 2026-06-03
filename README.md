@@ -105,5 +105,5 @@ Recommend actionable solutions to mitigate negative effects.
 
 ## 👤 Author
 MURENZI Charles  
-pstone Project  
+stone Project  
 August 2025
