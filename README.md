@@ -105,5 +105,5 @@ Recommend actionable solutions to mitigate negative effects.
 
 ## 👤 Author
 MURENZI Charles  
-ject  
+ect  
 August 2025
